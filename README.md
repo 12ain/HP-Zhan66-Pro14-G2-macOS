@@ -14,7 +14,7 @@
 | 硬盘     | SK hynix 512GB NVMExpress |
 | 显示器    | 内建显示器 13.9 - 英寸 |
 | 声卡     | Realtek ALC236 |
-| 网卡     | Intel AC9560 |
+| 网卡     | DW1820A |
 
 ## 失效硬件
 
