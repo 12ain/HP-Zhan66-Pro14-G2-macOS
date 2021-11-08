@@ -42,7 +42,7 @@
    - [one-key-cpufriend](https://github.com/stevezhengshiqi/one-key-cpufriend)
    - [One-Key-UnlockTDP](https://github.com/chiccheung/HP-Zhan66-Pro14-G2-macOS/tree/master/unlockTDP)
    - [HIDPI](https://github.com/xzhih/one-key-hidpi/blob/master/README-zh.md)
-   - [ALCPlugFix-Swift](https://github.com/daliansky/Lenovo-Air13-IWL-Hackintosh/tree/master/ALCPlugFix)
+   - [ALCPlugFix-Swift](https://github.com/daliansky/Lenovo-Air13-IWL-Hackintosh)
    - [HackinTool](https://kext.skk.moe/Software/HackinTool/)
    - [corpnewt/ProperTree](https://github.com/corpnewt/ProperTree)
    - [ic005k/QtOpenCoreConfig](https://github.com/ic005k/QtOpenCoreConfig)
